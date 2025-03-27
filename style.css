@@ -1,0 +1,40 @@
+body {
+  font-family: Algerian, sans-serif;
+  background-color: #E6E6FA;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #A0522D;
+  color:black;
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  background: #333;
+  overflow: hidden;
+}
+nav a {
+  float: left;
+  display: block;
+  color: #FAEBD7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: #ddd;
+  color: red;
+}
+section {
+  padding: 20px;
+}
+footer {
+  background-color: #ddd;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
